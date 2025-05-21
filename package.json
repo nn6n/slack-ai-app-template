@@ -29,7 +29,7 @@
   "dependencies": {
     "@hydra-ai/slack": "^0.0.1",
     "@slack/bolt": "^4.1.1",
-    "dotenv": "~16.4.7",
+    "dotenv": "~16.5.0",
     "jsx-slack": "^6.1.2"
   },
   "devDependencies": {
